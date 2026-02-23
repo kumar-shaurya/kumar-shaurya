@@ -4,7 +4,7 @@
 
 👯 I would love to collaborate with others who can help me in makeing Face Match project the best it can be.
 
-🤝 I’m looking for help with brainstorming new ways to improve Frame rate of the webcam output.
+🤝 I’m looking for help with brainstorming new ways to improve Frame rate of the webcam output. Help me out on [![Face Match](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/kumar-shaurya/Face_Match)
 
 🌱 I’m currently expanding my skills in machine learning, from data preprocessing and feature engineering to model training and evaluation using Scikit-learn, program optimisation etc.
 
