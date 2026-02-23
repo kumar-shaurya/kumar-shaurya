@@ -1,14 +1,14 @@
 ### Hello there!! 🤖
 
-🔭 I’m currently working on a personal AI home assistant, designed to be a helping hand in daily tasks and more, built with Python and Rasa.
+🔭 I’m currently working on a Face recognition software, designed to be efficient and low resource yet accurate built with Python.
 
-👯 I would love to collaborate with others who are passionate about conversational AI to make my personal assistant project the best it can be.
+👯 I would love to collaborate with others who can help me in makeing Face Match project the best it can be.
 
-🤝 I’m looking for help with brainstorming new features and improving the NLU model for my conversational AI.
+🤝 I’m looking for help with brainstorming new ways to improve Frame rate of the webcam output.
 
-🌱 I’m currently expanding my skills in machine learning, from data preprocessing and feature engineering to model training and evaluation using Scikit-learn.
+🌱 I’m currently expanding my skills in machine learning, from data preprocessing and feature engineering to model training and evaluation using Scikit-learn, program optimisation etc.
 
-⚡ Fun fact: When I'm not building an AI, I'm probably building (or modding) something in Minecraft.
+⚡ Fun fact: When I'm not coding, I'm probably building (or modding) something in Minecraft.
 
 
 ## 🌐 Socials:
