@@ -1,4 +1,9 @@
-### Hello there!! 🤖
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A237E&height=200&text=Kumar%20Shaurya&fontColor=ffffff" alt="Kumar Shaurya" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=I+build+my+heart+out.;Let's+build+cool+stuff.;Building+the+future+together." alt="Typing Animation" />
+</p>
 
 🔭 I’m currently working on a Face recognition software, designed to be efficient and low resource yet accurate built with Python.
 
